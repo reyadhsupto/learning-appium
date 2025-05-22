@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-17T13:01:00 BDT" name="Default suite" finished-at="2025-05-17T13:01:10 BDT" duration-ms="9582">
+    <groups>
+    </groups>
+    <test started-at="2025-05-17T13:01:00 BDT" name="Default test" finished-at="2025-05-17T13:01:10 BDT" duration-ms="9582">
+      <class name="Tests.TestViewsSettings">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:Tests.TestViewsSettings@5b8dfcc1]" started-at="2025-05-17T13:01:00 BDT" name="ConfigureAppium" finished-at="2025-05-17T13:01:04 BDT" duration-ms="3854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method is-config="true" signature="initPageObjects()[pri:0, instance:Tests.TestViewsSettings@5b8dfcc1]" started-at="2025-05-17T13:01:04 BDT" name="initPageObjects" finished-at="2025-05-17T13:01:04 BDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPageObjects -->
+        <test-method signature="testDragDrop()[pri:4, instance:Tests.TestViewsSettings@5b8dfcc1]" started-at="2025-05-17T13:01:04 BDT" name="testDragDrop" description="TC_043: Verify that user can drag and drop elements" finished-at="2025-05-17T13:01:10 BDT" duration-ms="5458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDragDrop -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.TestViewsSettings@5b8dfcc1]" started-at="2025-05-17T13:01:10 BDT" name="teardown" finished-at="2025-05-17T13:01:10 BDT" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.TestViewsSettings -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
